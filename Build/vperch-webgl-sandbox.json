@@ -1,0 +1,14 @@
+{
+"companyName": "RoboNation",
+"productName": "VPerch",
+"dataUrl": "vperch-webgl-sandbox.data.unityweb",
+"asmCodeUrl": "vperch-webgl-sandbox.asm.code.unityweb",
+"asmMemoryUrl": "vperch-webgl-sandbox.asm.memory.unityweb",
+"asmFrameworkUrl": "vperch-webgl-sandbox.asm.framework.unityweb",
+"TOTAL_MEMORY": 402653184,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
